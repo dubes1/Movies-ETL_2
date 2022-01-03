@@ -1,6 +1,7 @@
 # Byte-compiled / optimized / DLL files
 config.py
-ratings.csv
+Resources/ratings.csv
+credits.csv
 __pycache__/
 *.py[cod]
 *$py.class
